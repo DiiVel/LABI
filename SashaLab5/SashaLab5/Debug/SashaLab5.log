@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Visual Projects\SashaLab5\SashaLab5\Source.c(44,90): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\Visual Projects\SashaLab5\SashaLab5\Source.c(44,90): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  SashaLab5.vcxproj -> D:\Visual Projects\SashaLab5\Debug\SashaLab5.exe
